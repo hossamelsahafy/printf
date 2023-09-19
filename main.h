@@ -6,7 +6,7 @@
 #include <stdlib.h>
 #include <limits.h>
 #include <unistd.h>
-
+#include <stdarg.h>
 /**
  * struct form - structure to hold the char id and function
  * pointer
