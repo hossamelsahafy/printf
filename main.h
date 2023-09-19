@@ -20,7 +20,7 @@ typedef struct form
 {
 	char id;
 	int (*f)();
-}form;
+} form;
 
 int _printf(const char *format, ...);
 
